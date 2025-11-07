@@ -1,5 +1,5 @@
 
-# Emojifier 🍴
+# Emojifier 
 #### Turn words into emojis in real time! Leveraging LSTM-based NLP and GloVe embeddings, this project maps text to contextually relevant emojis, enhancing digital communication for chatbots, messaging apps, and social media platforms. Demonstrates end-to-end NLP workflow from text preprocessing to emoji prediction with an interactive demo.
 ## Features
 
